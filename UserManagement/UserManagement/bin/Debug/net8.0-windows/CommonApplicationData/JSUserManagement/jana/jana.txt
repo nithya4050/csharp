@@ -1,0 +1,2 @@
+jana|Female|be|c++|usa|us|uuuus|12|12/3/25|16|jana@gmail.com|988873747|raja street
+kovai|jana|1234

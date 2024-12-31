@@ -1,0 +1,76 @@
+﻿<Window x:Class="UserManagement.FileConcept"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserManagement"
+        mc:Ignorable="d"
+        Title="FileConcept" Height="450" Width="900" Background="LightSalmon">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="20 20 0 10">
+            <Label x:Name="lblfilename" Content="File Name" Margin="10"></Label>
+            <TextBox x:Name="txtfilename" Width="200" Height="30"></TextBox>
+            <Button x:Name="btncreate" Content="Create File" Width="100" FontWeight="Bold" Margin="10" Click="btncreate_Click"></Button>
+            <Button x:Name="btnDelete" Content="Delete File" Width="100" FontWeight="Bold" Margin="10" Click="btnDelete_Click"></Button>
+
+        </StackPanel>
+
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="25 10 0 0">
+
+
+            <Label x:Name="lblwritefile" Content="Write file" Margin="10"></Label>
+            <TextBox x:Name="txtwritefile" Width="200" Height="30"></TextBox>
+            <Button x:Name="btnwrite" Content="Write File" Width="100" FontWeight="Bold" Margin="10" Click="btnwrite_Click"></Button>
+            <Button x:Name="btnread" Content="Read File" Width="100" FontWeight="Bold" Margin="10" Click="btnread_Click"></Button>
+
+
+        </StackPanel>
+
+
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="20 10 0 0">
+
+
+            <Label x:Name="lblPathfile" Content="Path file" Margin="10"></Label>
+            <TextBox x:Name="txtpathfile" Width="200" Height="30" Margin="10 0 0 0" ></TextBox>
+
+
+            
+            <Button x:Name="btncreatefolder" Content="Create Folder" Width="100" FontWeight="Bold" Margin="10" Click="btncreatefolder_Click"></Button>
+
+            <Button x:Name="btncheckfolder" Content="Check Folder" Width="100" FontWeight="Bold" Margin="10" Click="btncheckfolder_Click"></Button>
+
+        </StackPanel>
+
+       
+
+
+        <!--    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="0 10 0 0">
+
+            <Label x:Name="lblfoldername" Content="Folder Name"></Label>
+            <TextBox x:Name="txtfoldername" Width="200" ></TextBox>
+
+        </StackPanel>-->
+
+
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="20 10 0 0">
+
+            <Label x:Name="lblreadfile" Content="Read file" Margin="10" Height="30"></Label>
+            <TextBox x:Name="txtreadfile" Width="200" Height="30" Margin="5 0 0 0"></TextBox>
+            <Button x:Name="btndeletefolder" Content="Delete Folder" Width="100" FontWeight="Bold" Margin="10" Click="btndeletefolder_Click"></Button>
+
+
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="20 10 0 0">
+            <Label x:Name="lbllstfile" Content="List file" Margin="10" Height="30"></Label>
+
+            <ListBox x:Name="lstdisplay" Height="150" Width="200" Margin="10 0 0 0"></ListBox>
+            <Button x:Name="btndisplay" Content="Get File From Directory" Width="100" FontWeight="Bold" Margin="10" Click="btndisplay_Click"></Button>
+
+
+        </StackPanel>
+    </StackPanel>
+
+</Window>

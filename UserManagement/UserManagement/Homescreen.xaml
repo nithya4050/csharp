@@ -1,0 +1,34 @@
+﻿<Window x:Class="UserManagement.Homescreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserManagement"
+
+        mc:Ignorable="d"
+        Title="Homescreen" Height="450" Width="800">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Background="Navy" Foreground="White" FontSize="14" Padding="10 5 0 10" FontWeight="Bold">
+            <MenuItem Header="Setting" Width="100" Foreground="White"></MenuItem>
+            <MenuItem Header="Master Page" Width="150">
+                <MenuItem Header="Skill" Click="MasterPage_Click" Foreground="Black" FontSize="13" FontWeight="Bold"></MenuItem>
+                <MenuItem Header="Country" Click="MasterPage_Click" Foreground="Black" FontSize="13" FontWeight="Bold"></MenuItem>
+                <MenuItem Header="State" Click="MasterPage_Click" Foreground="Black" FontSize="13" FontWeight="Bold"></MenuItem>
+                <MenuItem Header="City" Click="MasterPage_Click" Foreground="Black" FontSize="13" FontWeight="Bold"></MenuItem>
+
+            </MenuItem>
+            <MenuItem x:Name="home" Header="Home" Click="home_Click" Width="100"></MenuItem>
+            <MenuItem x:Name="list" Header="List" Click="list_Click" Width="100"></MenuItem>
+            <MenuItem x:Name="user" Header="User" Click="user_Click" Width="100"></MenuItem>
+       </Menu>
+
+        <StatusBar DockPanel.Dock="Bottom" Height="20" Background="Navy">
+            <StatusBarItem x:Name="sbardate" Foreground="White" Width="100"></StatusBarItem>
+            <StatusBarItem x:Name="sbartime" Foreground="White" Width="100"></StatusBarItem>
+
+        </StatusBar>
+
+        <Frame x:Name="mainframe" NavigationUIVisibility="Hidden"></Frame>
+        
+    </DockPanel>
+</Window>

@@ -1,0 +1,53 @@
+﻿<Page x:Class="UserManagement.UI.Skill"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:UserManagement.UI"
+      xmlns:lang="clr-namespace:UserManagement.Properties"
+
+      mc:Ignorable="d" 
+      d:DesignHeight="440" d:DesignWidth="400"
+      Title="Skill">
+
+    
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="left" Background="LightBlue">
+        <Grid Background="White" Height="440" Width="500">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+
+
+
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Skill Page"  Padding="10"  HorizontalAlignment="Center" FontSize="20" FontWeight="Bold" Grid.Row="0"  Grid.Column="1" Grid.ColumnSpan="2"/>
+
+
+            <Label Content="{x:Static lang:Resources.skills}" FontWeight="Bold" FontSize="14" Grid.Row="1"  Grid.Column="1" Margin="40 0 10 10" FontStretch="Expanded"/>
+            <TextBox x:Name="txtskills" FontWeight="Bold"  AcceptsReturn="True" Grid.RowSpan="4" Grid.ColumnSpan="2" Grid.Column="2" Margin="0 0 50 20" Width="100" Height="100">
+            </TextBox>
+            <Button x:Name="btnaddskills" Click="btnaddskills_Click"  Content="{x:Static lang:Resources.add}" Margin="0 0 0 0" Width="100" FontWeight="Bold" Height="30" FontSize="15" Grid.Row="3"  Grid.Column="1" Grid.ColumnSpan="1" Padding="2" Background="Navy"  Foreground="White"/>
+            <Button x:Name="btnpreviewskills" Click="btnpreviewskills_Click" Margin="0 0 20 0"  Content="{x:Static lang:Resources.preview}" FontWeight="Bold" Width="100" Height="30" FontSize="15" Grid.Row="3"  Grid.Column="2" Grid.ColumnSpan="2" Padding="1 0 1 1" Background="Navy"  Foreground="White"/>
+
+
+
+
+
+        </Grid>
+
+    </StackPanel>
+   
+</Page>

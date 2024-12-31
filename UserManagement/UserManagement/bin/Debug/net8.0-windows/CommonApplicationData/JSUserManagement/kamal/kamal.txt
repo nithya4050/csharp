@@ -1,0 +1,2 @@
+kamal|Male|de|c++|usa|us|uuuus|reg1|12/3/24|24|kamal@gmail.com|9878545677|No,2 raja strret
+kovai|kamal|1234

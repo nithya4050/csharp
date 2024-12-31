@@ -1,0 +1,147 @@
+﻿<Window x:Class="UserManagement.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserManagement"
+        xmlns:lang="clr-namespace:UserManagement.Properties"
+        mc:Ignorable="d"
+        Title="Registration" Height="600" Width="1000">
+
+
+    <Grid Background="White" Margin="0,2,0,-2">
+
+
+
+        <Grid.RowDefinitions>
+
+
+
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <!--<RowDefinition Height="53.782"></RowDefinition>-->
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+
+
+        </Grid.ColumnDefinitions>
+
+        <Label Content="{x:Static lang:Resources.registrationpage}"  HorizontalAlignment="Center" FontSize="20" FontWeight="Bold" Grid.Row="0"  Grid.Column="3" Grid.ColumnSpan="2" Padding="10 2 10 2"></Label>
+
+        <!--Name-->
+        <Label Content="{x:Static lang:Resources.name}" FontSize="13" Grid.Row="1"  Grid.Column="0" Margin="20 0 0 20"></Label>
+        <TextBox x:Name="txtname" Height="25" MaxLength="30" Grid.Row="1"  Grid.Column="1" Width="200" Margin="10 0 10 30"></TextBox>
+        <Label x:Name="lblnamevalidation" Height="30" Width="200" Grid.Row="1"  Grid.Column="1" Foreground="red"  FontSize="11" Margin="0 30 0 0" Padding="0 0 0 0"></Label>
+
+
+        <!--Gender-->
+        <Label Content="{x:Static lang:Resources.gender}"  FontSize="13" Grid.Row="2"  Grid.Column="0" Margin="21 10 0 30" Padding="0 0 0 0" Height="40"></Label>
+        <StackPanel Orientation="Horizontal" Grid.Row="2"  Grid.Column="1" Margin="0 0 0 20">
+            <RadioButton x:Name="rdbmale" Content="Male"   FontSize="12" Margin="10 10 0 0"></RadioButton>
+            <RadioButton x:Name="rdbfemale" Content="Female"  FontSize="12" Margin="10 10 0 0"></RadioButton>
+
+        </StackPanel>
+        <Label x:Name="lblgendervalidation" Height="30" Width="200" Grid.Row="2"  Grid.Column="1" Foreground="red" Margin="0 10 0 0" Padding="0 0 0 0" FontSize="11"></Label>
+
+
+        <!--Education-->
+        <Label Content="{x:Static lang:Resources.education}"  FontSize="13" Grid.Row="3"  Grid.Column="0" Margin="10 5 0 20"></Label>
+        <TextBox x:Name="txteducation"  Height="25" MaxLength="20" Grid.Row="3"  Grid.Column="1" Width="200" Margin="5 0 0 20"></TextBox>
+        <Label x:Name="lblEducationvalidation" Height="30" Width="200" Grid.Row="3"  Grid.Column="1" Foreground="red"  Margin="10,34,10,1" FontSize="11"></Label>
+
+        <!--skills-->
+        <Label Content="{x:Static lang:Resources.skills}"  FontSize="13" Grid.Row="4"  Grid.Column="0" Margin="10 5 0 0"></Label>
+        <ListBox x:Name="lstskills"   FontSize="13"  Margin="5 30 0 0" Grid.Row="3"  Grid.Column="1" Width="200" Height="90" Grid.RowSpan="3" SelectionMode="Multiple"></ListBox>
+        <Label x:Name="lblskillsvalidation" Height="30" Padding="0 0 0 10" Width="200" Grid.Row="5"  Grid.Column="1" Foreground="red" Margin="0 20 0 0" FontSize="11"></Label>
+
+
+        <!--Nationality-->
+        <Label x:Name="lblnationality" Content="{x:Static lang:Resources.nationality}"  FontSize="13" Grid.Row="6"  Grid.Column="0" Margin="20 5 0 0"></Label>
+        <ComboBox x:Name="cmbcountry" Grid.Row="6" Grid.Column="1" Height="25" Width="200" SelectedIndex="0" Margin="5 0 0 35" SelectionChanged="cmbcountry_SelectionChanged"></ComboBox>
+        <Label x:Name="lblcountryvalidation" Height="30" Width="200" Grid.Row="6"  Grid.Column="1" Foreground="red" Margin="0 30 0 10" FontSize="11"></Label>
+
+
+        <!--State-->
+        <Label Content="{x:Static lang:Resources.state}"  FontSize="13" Grid.Row="7"  Grid.Column="0" Margin="20 5 0 30"></Label>
+        <ComboBox x:Name="cmbstate" Grid.Row="7" Grid.Column="1" Height="25" Width="200" Margin="5 0 0 35" SelectionChanged="cmbstate_SelectionChanged" SelectedIndex="0">
+        </ComboBox>
+        <Label x:Name="lblstatevalidation" Height="30" Width="200" Grid.Row="7"  Grid.Column="1" Foreground="red" Margin="0 30 0 10" FontSize="11"></Label>
+
+
+        <!--Place-->
+        <Label Content="{x:Static lang:Resources.place}"  FontSize="13" Grid.Row="8"  Grid.Column="0" Margin="20 5 0 30"></Label>
+        <ComboBox x:Name="cmbplace" Height="25" Grid.Row="8"  Grid.Column="1" Width="200" Margin="5 0 0 30" SelectedIndex="0">
+        </ComboBox>
+
+        <Label x:Name="lblplacevalidation" Height="30" Width="200" Grid.Row="8"  Grid.Column="1" Foreground="red" Margin="0 30 0 0" FontSize="11"></Label>
+
+
+        <!--RegNo-->
+        <Label x:Name="lblregNo" Content="{x:Static lang:Resources.regno}" FontSize="13" Grid.Row="1"  Grid.Column="3" Margin="20 0 0 30"></Label>
+        <TextBox x:Name="txtregno" Height="25" MaxLength="10" Grid.Row="1"  Grid.Column="4" Width="200" Margin="10 0 10 30"></TextBox>
+        <Label x:Name="lblregnovalidation" Height="25" Width="200" Grid.Row="1"  Grid.Column="4" Foreground="red" Margin="0 30 0 0" FontSize="11"></Label>
+
+
+
+
+        <!--Date Of Birth-->
+        <Label x:Name="lbldob" Content="{x:Static lang:Resources.dateofbirth}"  FontSize="13" Grid.Row="2"  Grid.Column="3" Margin="20 0 0 30"></Label>
+        <TextBox x:Name="txtdob" Height="25" MaxLength="10" Grid.Row="2"  Grid.Column="4" Width="200" Margin="0 0 0 30"></TextBox>
+        <Label x:Name="lbldobvalidation" Height="30" Width="200" Grid.Row="2"  Grid.Column="4" Foreground="red" Margin="0 30 0 10" FontSize="11"></Label>
+
+
+        <!--Age-->
+        <Label x:Name="lblage" Content="{x:Static lang:Resources.age}"  FontSize="13" Grid.Row="3"  Grid.Column="3" Margin="20 0 0 30"></Label>
+        <TextBox x:Name="txtage"  Height="25" MaxLength="10" Grid.Row="3"  Grid.Column="4" Width="200" Margin="0 0 0 30"></TextBox>
+        <Label x:Name="lblagevalidation" Height="30" Width="200" Grid.Row="3"  Grid.Column="4" Foreground="red" Margin="0 30 0 10" FontSize="11"></Label>
+
+
+        <!--Email-->
+        <Label x:Name="lblemail" Content="{x:Static lang:Resources.email}"  FontSize="13" Grid.Row="4"  Grid.Column="3" Margin="20 0 0 30"></Label>
+        <TextBox x:Name="txtemail"  Height="25"  Grid.Row="4"  Grid.Column="4" Width="200" Margin="0 0 0 35"></TextBox>
+        <Label x:Name="lblemailvalidation" Height="30" Width="200" Grid.Row="4"  Grid.Column="4" Foreground="red" Margin="0 30 0 0" FontSize="11"></Label>
+
+        <!--Phoneno-->
+        <Label x:Name="lblphoneno" Content="{x:Static lang:Resources.phonenumber}"  FontSize="13" Grid.Row="5"  Grid.Column="3" Margin="20 0 0 30"></Label>
+        <TextBox x:Name="txtphoneno" Height="25" MaxLength="15" Grid.Row="5"  Grid.Column="4" Width="200" Margin="0 0 0 35"></TextBox>
+        <Label x:Name="lblphonenovalidation" Height="30" Width="200" Grid.Row="5"  Grid.Column="4" Foreground="red" Margin="0 30 0 10" FontSize="11"></Label>
+
+        <!--Address-->
+        <Label x:Name="lblAddress" Content="{x:Static lang:Resources.address}"  FontSize="13" Grid.Row="6"  Grid.Column="3" Margin="20 5 0 0"></Label>
+        <TextBox x:Name="txtAddress" Grid.Row="6"  Grid.Column="4" Width="200" Height="60" Margin="0 0 0 0"  AcceptsReturn="True"></TextBox>
+        <Label x:Name="lbladdressvalidation" Height="30" Width="200" Grid.Row="6"  Grid.Column="4" Foreground="red" Margin="0 40 0 0" FontSize="11"></Label>
+
+        <!--Username-->
+        <Label x:Name="lblusername" Content="UserName" FontSize="13" Grid.Row="7"  Grid.Column="3" Margin="20 0 0 30"></Label>
+        <TextBox x:Name="txtusername" Height="25" MaxLength="10" Grid.Row="7"  Grid.Column="4" Width="200" Margin="0 0 0 30"></TextBox>
+        <Label x:Name="lblusernamevalidation" Height="30" Width="200" Grid.Row="7"  Grid.Column="4" Foreground="red" Margin="0 30 0 0" FontSize="11"></Label>
+
+        <!--Password-->
+        <Label x:Name="lblpassword" Content="Password"  FontSize="13" Grid.Row="8"  Grid.Column="3" Margin="20 0 0 30"></Label>
+        <TextBox x:Name="txtpassword"  Height="25" MaxLength="20" Grid.Row="8"  Grid.Column="4" Width="200"  Margin="0 0 0 30"></TextBox>
+        <Label x:Name="lblpasswordvalidation" Height="30" Width="200" Grid.Row="8"  Grid.Column="4" Foreground="red" Margin="0 30 0 0" ></Label>
+
+        <Button x:Name="btnRegister" Content="Register"  Height="40" FontSize="15" Grid.Row="6"  Grid.Column="5" Margin="40 0 0 10" Click="btnRegister_Click" FontWeight="Bold" Padding="0 0 0 0" Background="Navy" Foreground="White"></Button>
+        <Button x:Name="btncancel" Content="Cancel"  Height="40" FontSize="15" Grid.Row="7"  Grid.Column="5" Margin="40,10,0,15"  FontWeight="Bold" Padding="0 0 0 0" Background="Navy" Foreground="White" Click="btncancel_Click" Grid.ColumnSpan="2"></Button>
+
+
+        <Image x:Name="imagephoto"  Height="200" Width="200" Source="C:\\jsfiles\\registration.jpg"  Grid.Row="1"  Grid.Column="5" Grid.RowSpan="3" Margin="40 0 0 0"></Image>
+
+    </Grid>
+
+</Window>
