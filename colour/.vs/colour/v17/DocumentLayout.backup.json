@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snafa\\source\\repos\\colour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E52C6A8-48FC-43F2-94C4-5E1D754CF07A}|colour\\colour.csproj|c:\\users\\snafa\\source\\repos\\colour\\colour\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E52C6A8-48FC-43F2-94C4-5E1D754CF07A}|colour\\colour.csproj|solutionrelative:colour\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E52C6A8-48FC-43F2-94C4-5E1D754CF07A}|colour\\colour.csproj|c:\\users\\snafa\\source\\repos\\colour\\colour\\colour.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5E52C6A8-48FC-43F2-94C4-5E1D754CF07A}|colour\\colour.csproj|solutionrelative:colour\\colour.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E52C6A8-48FC-43F2-94C4-5E1D754CF07A}|colour\\colour.csproj|c:\\users\\snafa\\source\\repos\\colour\\colour\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E52C6A8-48FC-43F2-94C4-5E1D754CF07A}|colour\\colour.csproj|solutionrelative:colour\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "colour",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colour\\colour\\colour.csproj",
+              "RelativeDocumentMoniker": "colour\\colour.csproj",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colour\\colour\\colour.csproj",
+              "RelativeToolTip": "colour\\colour.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T13:03:11.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colour\\colour\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "colour\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colour\\colour\\MainWindow.xaml",
+              "RelativeToolTip": "colour\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-30T17:13:31.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colour\\colour\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "colour\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colour\\colour\\MainWindow.xaml.cs",
+              "RelativeToolTip": "colour\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:13:26.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
