@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|c:\\users\\snafa\\source\\repos\\collectionswpf\\collectionswpf\\registrationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|solutionrelative:collectionswpf\\registrationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|c:\\users\\snafa\\source\\repos\\collectionswpf\\collectionswpf\\employeedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|solutionrelative:collectionswpf\\employeedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|c:\\users\\snafa\\source\\repos\\collectionswpf\\collectionswpf\\employeedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|solutionrelative:collectionswpf\\employeedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|c:\\users\\snafa\\source\\repos\\collectionswpf\\collectionswpf\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|solutionrelative:collectionswpf\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|c:\\users\\snafa\\source\\repos\\collectionswpf\\collectionswpf\\employeesearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|solutionrelative:collectionswpf\\employeesearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|c:\\users\\snafa\\source\\repos\\collectionswpf\\collectionswpf\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|solutionrelative:collectionswpf\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|c:\\users\\snafa\\source\\repos\\collectionswpf\\collectionswpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A677F6CB-8E0B-425F-8B7E-F97B1B2DA5A7}|CollectionsWPF\\CollectionsWPF.csproj|solutionrelative:collectionswpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\EmployeeDetails.xaml",
+              "RelativeDocumentMoniker": "CollectionsWPF\\EmployeeDetails.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\EmployeeDetails.xaml",
+              "RelativeToolTip": "CollectionsWPF\\EmployeeDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T18:21:47.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "CollectionsWPF\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\Model\\Employee.cs",
+              "RelativeToolTip": "CollectionsWPF\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:32:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\EmployeeDetails.xaml.cs",
+              "RelativeDocumentMoniker": "CollectionsWPF\\EmployeeDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\EmployeeDetails.xaml.cs",
+              "RelativeToolTip": "CollectionsWPF\\EmployeeDetails.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:38:11.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeSearch.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\EmployeeSearch.xaml.cs",
+              "RelativeDocumentMoniker": "CollectionsWPF\\EmployeeSearch.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\EmployeeSearch.xaml.cs",
+              "RelativeToolTip": "CollectionsWPF\\EmployeeSearch.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:37:56.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationForm.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\RegistrationForm.xaml",
+              "RelativeDocumentMoniker": "CollectionsWPF\\RegistrationForm.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\RegistrationForm.xaml",
+              "RelativeToolTip": "CollectionsWPF\\RegistrationForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T06:45:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\HomePage.xaml",
+              "RelativeDocumentMoniker": "CollectionsWPF\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\HomePage.xaml",
+              "RelativeToolTip": "CollectionsWPF\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T08:46:33.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\Login.xaml",
+              "RelativeDocumentMoniker": "CollectionsWPF\\Login.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\CollectionsWPF\\CollectionsWPF\\Login.xaml",
+              "RelativeToolTip": "CollectionsWPF\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T18:53:10.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

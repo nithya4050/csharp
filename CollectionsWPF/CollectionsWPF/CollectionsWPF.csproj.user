@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="EmployeeDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmployeeSearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Fileconcept_janamam.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forgetpassword.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HomePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LINQ_Lamendaworkout.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="oopsPractice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="oops_concept.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegistrationForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI\Homepagenew.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI\Location.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI\settingspage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="EmployeeDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmployeeSearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Fileconcept_janamam.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forgetpassword.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HomePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LINQ_Lamendaworkout.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="oopsPractice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="oops_concept.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegistrationForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI\Homepagenew.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI\Location.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI\settingspage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
