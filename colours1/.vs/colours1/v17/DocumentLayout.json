@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snafa\\source\\repos\\colours1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\calculator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\calculator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\desinging.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\desinging.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\email.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\email.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\exam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\exam.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\winstringfunction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\winstringfunction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\listbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\listbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\listbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\listbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\winstringfunction.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\winstringfunction.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\loginnew.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\loginnew.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\loginnew.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\loginnew.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\desinging.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\desinging.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\exam.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\exam.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\fcad4c6a4959162c7f51b093c8c1ce75b1ea65dd9e4fc28ee18d3a32d2d0f9d6\\EventRoute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\4e84e9c1b897922ccadfa3d049ee2108391400103aa40bdcaa19e6141186a46e\\UIElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\9615b52a964ea4b0bdfaf38a01e60f6fd8a777d60f8bcc0c532727e562b4b074\\ArgumentOutOfRangeException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\e602f6d06c30bee89195cf62ea3341c7b6644f8dfbf1d4296c501f69250b60b8\\String.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\fb15084c48174bff3023217d1ad58e803e1e4322708722f333707ce4bd465108\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\10915ac3ba4ee5c3917ef8d1ef64054a33842589a996355b9166872a44af31e3\\ArrayList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\email.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\email.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|c:\\users\\snafa\\source\\repos\\colours1\\wpfapp1\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA51CF-71B7-44D1-BD87-79B61C814032}|WpfApp1\\colours1.csproj|solutionrelative:wpfapp1\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Calculator.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Calculator.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Calculator.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Calculator.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:45:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "listbox.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\listbox.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\listbox.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\listbox.xaml",
+              "RelativeToolTip": "WpfApp1\\listbox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T04:34:42.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WinstringFunction.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\WinstringFunction.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\WinstringFunction.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\WinstringFunction.xaml",
+              "RelativeToolTip": "WpfApp1\\WinstringFunction.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T16:58:52.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "listbox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\listbox.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\listbox.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\listbox.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\listbox.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:50:34.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Home.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Home.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Home.xaml",
+              "RelativeToolTip": "WpfApp1\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T13:03:28.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Game.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Game.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Game.xaml",
+              "RelativeToolTip": "WpfApp1\\Game.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T07:57:53.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Desinging.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Desinging.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Desinging.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Desinging.xaml",
+              "RelativeToolTip": "WpfApp1\\Desinging.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T11:14:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Calculator.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Calculator.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Calculator.xaml",
+              "RelativeToolTip": "WpfApp1\\Calculator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T12:23:19.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Report.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Report.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Report.xaml",
+              "RelativeToolTip": "WpfApp1\\Report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T07:24:52.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Report.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Report.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Report.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Report.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:25:06.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exam.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Exam.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Exam.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Exam.xaml",
+              "RelativeToolTip": "WpfApp1\\Exam.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T12:18:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Email.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Email.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Email.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Email.xaml",
+              "RelativeToolTip": "WpfApp1\\Email.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T17:23:32.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WinstringFunction.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\WinstringFunction.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\WinstringFunction.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\WinstringFunction.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\WinstringFunction.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:03:30.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Login.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Login.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Login.xaml",
+              "RelativeToolTip": "WpfApp1\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T12:20:12.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "loginnew.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\loginnew.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\loginnew.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\loginnew.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\loginnew.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:20:25.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T12:22:07.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Desinging.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Desinging.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Desinging.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Desinging.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Desinging.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:23:34.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "loginnew.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\loginnew.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\loginnew.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\loginnew.xaml",
+              "RelativeToolTip": "WpfApp1\\loginnew.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T12:25:36.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Login.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Login.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:20:17.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Game.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Game.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Game.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Game.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Game.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:58:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Email.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Email.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Email.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Email.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Email.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:52:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs [Read Only]",
+              "ViewState": "AgIAAJIKAAAAAAAAAAArwJwKAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:56:19.554Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventRoute.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\fcad4c6a4959162c7f51b093c8c1ce75b1ea65dd9e4fc28ee18d3a32d2d0f9d6\\EventRoute.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fcad4c6a4959162c7f51b093c8c1ce75b1ea65dd9e4fc28ee18d3a32d2d0f9d6\\EventRoute.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\fcad4c6a4959162c7f51b093c8c1ce75b1ea65dd9e4fc28ee18d3a32d2d0f9d6\\EventRoute.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fcad4c6a4959162c7f51b093c8c1ce75b1ea65dd9e4fc28ee18d3a32d2d0f9d6\\EventRoute.cs [Read Only]",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwHsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:06:45.807Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UIElement.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\4e84e9c1b897922ccadfa3d049ee2108391400103aa40bdcaa19e6141186a46e\\UIElement.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4e84e9c1b897922ccadfa3d049ee2108391400103aa40bdcaa19e6141186a46e\\UIElement.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\4e84e9c1b897922ccadfa3d049ee2108391400103aa40bdcaa19e6141186a46e\\UIElement.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4e84e9c1b897922ccadfa3d049ee2108391400103aa40bdcaa19e6141186a46e\\UIElement.cs [Read Only]",
+              "ViewState": "AgIAAI0YAAAAAAAAAAApwKEYAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:19:04.284Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Exam.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Exam.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Exam.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Exam.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Exam.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:59:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T07:27:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ArgumentOutOfRangeException.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\9615b52a964ea4b0bdfaf38a01e60f6fd8a777d60f8bcc0c532727e562b4b074\\ArgumentOutOfRangeException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9615b52a964ea4b0bdfaf38a01e60f6fd8a777d60f8bcc0c532727e562b4b074\\ArgumentOutOfRangeException.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\9615b52a964ea4b0bdfaf38a01e60f6fd8a777d60f8bcc0c532727e562b4b074\\ArgumentOutOfRangeException.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\9615b52a964ea4b0bdfaf38a01e60f6fd8a777d60f8bcc0c532727e562b4b074\\ArgumentOutOfRangeException.cs [Read Only]",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:41:46.133Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "String.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\e602f6d06c30bee89195cf62ea3341c7b6644f8dfbf1d4296c501f69250b60b8\\String.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e602f6d06c30bee89195cf62ea3341c7b6644f8dfbf1d4296c501f69250b60b8\\String.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\e602f6d06c30bee89195cf62ea3341c7b6644f8dfbf1d4296c501f69250b60b8\\String.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e602f6d06c30bee89195cf62ea3341c7b6644f8dfbf1d4296c501f69250b60b8\\String.cs [Read Only]",
+              "ViewState": "AgIAAJ8LAAAAAAAAAAASwKsLAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:34:56.78Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs [Read Only]",
+              "ViewState": "AgIAAEYXAAAAAAAAAAAlwFIXAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:21:00.498Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ItemCollection.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\fb15084c48174bff3023217d1ad58e803e1e4322708722f333707ce4bd465108\\ItemCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fb15084c48174bff3023217d1ad58e803e1e4322708722f333707ce4bd465108\\ItemCollection.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\fb15084c48174bff3023217d1ad58e803e1e4322708722f333707ce4bd465108\\ItemCollection.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fb15084c48174bff3023217d1ad58e803e1e4322708722f333707ce4bd465108\\ItemCollection.cs [Read Only]",
+              "ViewState": "AgIAALcGAAAAAAAAAAAlwMMGAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:13:32.953Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\10915ac3ba4ee5c3917ef8d1ef64054a33842589a996355b9166872a44af31e3\\ArrayList.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\10915ac3ba4ee5c3917ef8d1ef64054a33842589a996355b9166872a44af31e3\\ArrayList.cs",
+              "ToolTip": "C:\\Users\\snafa\\AppData\\Local\\Temp\\.vsdbgsrc\\10915ac3ba4ee5c3917ef8d1ef64054a33842589a996355b9166872a44af31e3\\ArrayList.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\10915ac3ba4ee5c3917ef8d1ef64054a33842589a996355b9166872a44af31e3\\ArrayList.cs [Read Only]",
+              "ViewState": "AgIAAEsJAAAAAAAAAAAlwFcJAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:05:07.445Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\snafa\\source\\repos\\colours1\\WpfApp1\\Home.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Home.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:03:44.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

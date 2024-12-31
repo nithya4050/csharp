@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfApp1.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Home" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+             <Label x:Name="lblfirstno" Content="First Number" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0 5 1 1"></Label>
+            <TextBox x:Name="txtfirstno" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="0 5 1 1"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+            <Label x:Name="lblsecondno" Content="Second Number" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0 5 1 1"></Label>
+            <TextBox x:Name="txtsecondno" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="0 5 1 1"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+            <Label x:Name="lblresult"  Content="Result" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0 5 1 1"></Label>
+            <TextBox x:Name="txtresult" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="0 5 1 1"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Height="50">
+            <Button x:Name="btnadd" HorizontalAlignment="Left" VerticalAlignment="Center" Width="50" Height="20" Margin="10 5 5 0" Content="ADD" Click="btnadd_Click"></Button>
+            <Button x:Name="btnsub" HorizontalAlignment="Left" VerticalAlignment="Center" Width="50" Height="20" Margin="10 5 5 0" Content="SUB" Click="btnsub_Click"></Button>
+            <Button x:Name="btnmul" HorizontalAlignment="Left" VerticalAlignment="Center" Width="50" Height="20" Margin="10 5 5 0" Content="MUL" Click="btnmul_Click"></Button>
+            <Button x:Name="btndiv" HorizontalAlignment="Left" VerticalAlignment="Center" Width="50" Height="20" Margin="10 5 5 0" Content="DIV" Click="btndiv_Click"></Button>
+
+
+
+        </StackPanel>
+    </StackPanel>
+</Window>

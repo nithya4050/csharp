@@ -1,0 +1,57 @@
+﻿<Window x:Class="colours1.WinstringFunction"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:colours1"
+        mc:Ignorable="d"
+        Title="WinstringFunction" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Name"></Label>
+            <TextBox x:Name="txtname" Width="100" TextChanged="txtname_TextChanged"></TextBox>
+            <Button x:Name="btnname" Content="ok" Click="btnname_Click"></Button>
+        </StackPanel>
+        <StackPanel>
+            <CheckBox x:Name="chkskills"  Content="c"></CheckBox>
+            <CheckBox x:Name="chkskills1" Content="c++"></CheckBox>
+            <CheckBox x:Name="chkskills2" Content="java"></CheckBox>
+
+        </StackPanel>
+
+        <StackPanel>
+            <RadioButton Content="male"  ></RadioButton>
+            <RadioButton Content="female"></RadioButton>
+
+        </StackPanel>
+
+        <StackPanel>
+            <RadioButton Content="yes"></RadioButton>
+            <RadioButton Content="no"></RadioButton>
+
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Button x:Name="btnchararray" Content="ok" Click="btnchararray_Click"></Button>
+
+        </StackPanel>
+
+        <StackPanel Background="AliceBlue" Margin="20" Width="600" Height="200">
+            <StackPanel Orientation="Horizontal">
+            <Label Content="Enter Your Password" FontSize="15" FontWeight="Bold" Margin="20"></Label>
+            <TextBox x:Name="txtpassword" Width="150" Margin="10" Height="20" TextChanged="txtpassword_TextChanged"></TextBox>
+              
+            <Label x:Name="lblvalidation" Margin="20" Foreground="Red"></Label>
+      
+           </StackPanel>
+            
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Enter Your Password" FontSize="15" FontWeight="Bold" Margin="20"></Label>
+
+                <TextBox x:Name="txtnamemore" Margin="10" Height="30" Width="200" TextChanged="txtnamemore_TextChanged"></TextBox>
+                <Button Content="Add" Click="Button_Click" Margin="20"></Button>
+            </StackPanel>
+            
+        </StackPanel>
+    </StackPanel>
+</Window>

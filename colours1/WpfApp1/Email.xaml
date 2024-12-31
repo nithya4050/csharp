@@ -1,0 +1,76 @@
+﻿<Window x:Class="colours1.Email"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:colours1"
+        mc:Ignorable="d"
+        Title="Email" Height="900" Width="900">
+    <StackPanel >
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Email" FontWeight="Bold" FontSize="15" Margin="20 0 0 0"></Label>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal">
+            <Label Content="To" FontWeight="Bold" FontSize="15" Margin="20 0 0 0"></Label>
+            <TextBox x:Name="txtEmail" FontWeight="Bold" Height="50" Width="300" TabIndex="1" Margin="50 0 0 0"></TextBox>
+            <Button x:Name="btnSend" Background="LightBlue" Width="90" Content="SEND" Margin="30 0 0 0" Click="btnsend_Click"></Button>
+        
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Product" FontWeight="Bold" FontSize="15" Margin="0 20 0 0"></Label>
+            <TextBox x:Name="txtproduct" FontWeight="Bold" Height="300" Width="300" TabIndex="1" Margin="30 20 0 5" AcceptsReturn="True"></TextBox>
+            <Button x:Name="btnadd" Background="LightBlue" Width="90" Content="ADD" Margin="30 20 0 5" Click="btnadd_Click"></Button>
+        
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label Content="country" Margin="0 20 0 0" FontWeight="Bold" FontSize="15"></Label>
+            <ComboBox x:Name="cmbcountry" Margin="30 20 0 0" Width="200" FontWeight="Bold">
+            <!--<ComboBoxItem>India</ComboBoxItem>
+            <ComboBoxItem>USA</ComboBoxItem>
+            <ComboBoxItem>Malaysia</ComboBoxItem>
+            <ComboBoxItem>UK</ComboBoxItem>-->
+            </ComboBox>
+
+            <Label Content="Country Name" FontWeight="Bold" FontSize="15" Margin="20 20 0 0"></Label>
+            <TextBox x:Name="txtcountryname" FontWeight="Bold" Height="30" Width="200" Margin="30 20 0 0"></TextBox>
+            <Button x:Name="btnaddnew1" Content="ADD" FontWeight="Bold" Margin="0 20 0 0" Click="btnaddnew1_Click"></Button>
+           
+
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label Content="skill" Margin="0 20 0 50" FontWeight="Bold" FontSize="15"></Label>
+
+            <ListBox x:Name="cmbskill" SelectionMode="Extended"  Margin="60 20 0 0" Width="200" FontWeight="Bold">
+                <ListBoxItem>C#</ListBoxItem>
+                <ListBoxItem>Java</ListBoxItem>
+                <ListBoxItem>sql</ListBoxItem>
+                <ListBoxItem>c</ListBoxItem>
+            </ListBox>
+
+            <Label Content="Index position" FontWeight="Bold" FontSize="15" Margin="20 20 0 0"></Label>
+
+            <TextBox x:Name="txtposition" FontWeight="Bold" Height="30" Width="100" Margin="30 0 0 30"></TextBox>
+            <Button x:Name="btnInsert" Content="Insert" FontWeight="Bold" Margin="10 20 0 50" Click="btnInsert_Click"></Button>
+            <Button x:Name="btnRemove" Content="Remove" FontWeight="Bold" Margin="10 20 0 50" Click="btnRemove_Click"></Button>
+            <Button x:Name="btnClear" Content="Clear" FontWeight="Bold" Margin="10 20 0 50" Click="btnClear_Click"></Button>
+            <Button x:Name="btnPostionremove" Content="RemoveAt" FontWeight="Bold" Margin="10 20 0 50" Click="btnPostionremove_Click"></Button>
+
+
+
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label Content="skillnew" Margin="0 20 0 50" FontWeight="Bold" FontSize="15"></Label>
+            <Button x:Name="btnaddnew" Content="ADD" FontWeight="Bold" Margin="0 20 0 40" Click="btnaddnew_Click"></Button>
+            <ListBox x:Name="lstskillnew" SelectionMode="Extended"  Margin="10 20 0 0" Width="200" FontWeight="Bold">
+                
+            </ListBox>
+        </StackPanel>
+
+    </StackPanel>
+</Window>
